@@ -1,9 +1,10 @@
-# 🧠 Projeto de Programação Orientada a Objetos – Herança em Java
+ # 🧠 Projeto de Programação Orientada a Objetos – Herança em Java
+
 📚 Projeto desenvolvido como parte das atividades do curso técnico em Informática da ULBRA São Lucas. O objetivo é praticar os conceitos de herança, encapsulamento e sobrescrita de métodos com Java.
 
 ---
 
-📁 Estrutura do Projeto
+ ## 📁 Estrutura do Projeto
 O projeto está organizado no diretório src/ulbra/br, separado por pacotes:
 ````
 src/
@@ -18,7 +19,8 @@ src/
 ````
 ---
 
-### 🛍️ exer1 – Produto
+ ### 🛍️ exer1 – Produto
+
 Define uma classe base Produto e suas possíveis extensões como Eletronico e Livro (caso implementado).
 
 Pode incluir métodos como:
@@ -30,7 +32,8 @@ Pode incluir métodos como:
 - calcularGarantia()
 ---
 
-### 🚗 exer2 – Veículo
+ ### 🚗 exer2 – Veículo
+
 Define uma classe base Veiculo com possíveis heranças como Carro e Moto.
 
 Métodos esperados:
@@ -42,7 +45,8 @@ Métodos esperados:
  - exibirDetalhes()
 ---
 
-### 👔 exer3 – Funcionário
+ ### 👔 exer3 – Funcionário
+
 Define uma classe base Funcionario com especializações como Gerente e Vendedor.
 
 Funcionalidades:
@@ -54,7 +58,7 @@ Funcionalidades:
  - exibirDadosFuncionario()
 ---
 
-## 🛠️ Tecnologias Utilizadas
+ ## 🛠️ Tecnologias Utilizadas
  - Java 8 ou superior
 
  - IDE: NetBeans (estrutura padrão com nbproject) ou outra compatível
@@ -62,7 +66,7 @@ Funcionalidades:
  - Entrada de dados via Scanner (em classes Main, Empresa, Loja, etc.)
 ---
 
-## ▶️ Como Executar
+ ## ▶️ Como Executar
  - Clone ou baixe este repositório.
 
  - Abra a pasta do projeto em sua IDE Java (ex: NetBeans).
@@ -72,7 +76,7 @@ Funcionalidades:
  - Interaja com o programa via console.
 ---
 
-## ✅ Conceitos Aplicados
+ ## ✅ Conceitos Aplicados
 1. Herança (extends)
 
 2. Encapsulamento (private, getters e setters)
@@ -84,7 +88,7 @@ Funcionalidades:
 5. Entrada de dados via Scanner
 ---
 
-##✍️ Autor
+ ##✍️ Autor
 
 Gabriel Santos de Sandes
  
